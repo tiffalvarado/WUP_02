@@ -69,3 +69,5 @@ t.test(VitC~Cult,data=veggy)
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+The problem we were trying to find was if there is a differemce between c39 and c52. I reject the null hypothesis because the p value is 3.405 smaller than .05 based on our results there is a difference in the Vitc content cultivataion. The higher Vitc would be c52.
